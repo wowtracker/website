@@ -1,4 +1,4 @@
-[WoWTracker](https://wowtracker.xyz)
+[WoWTracker](https://wowtracker.xyz) - An armoury substitute for Classic WoW.
 
 ## Features
 
