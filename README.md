@@ -11,6 +11,7 @@
 
  - [Guild] Character notes (Officer/Leader Visible).
  - [Server] News Portal
+ - [Player] Ability to soft-delete own characters.
 
 ## API
 
