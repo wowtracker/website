@@ -11,3 +11,7 @@
 
  - [Guild] Character notes (Officer/Leader Visible).
  - [Server] News Portal
+
+## API
+
+ - [Guild] Roster API (limited functionality).
