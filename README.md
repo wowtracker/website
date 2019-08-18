@@ -6,6 +6,7 @@
  - [Player] Create characters.
  - [Player] Create guilds.
  - [Guild Officer] Invite characters to guild.
+ - [Player] Ability to accept or reject guild invitations.
  - [Player] Ability to gquit.
 
 ## Planned Features
