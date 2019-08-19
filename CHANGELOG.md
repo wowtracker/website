@@ -5,3 +5,4 @@
 
 ## Fixed
  - Guild View: Bug with character_class when character is invited to guild.
+ - My Characters: Fix guild tag after character name.
