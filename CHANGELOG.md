@@ -5,7 +5,9 @@
  - Add region index pages ([eu](https://wowtracker.xyz/classic/eu), [us](https://wowtracker.xyz/classic/us), [oceanic](https://wowtracker.xyz/classic/oceanic)) which list known servers.
 
 ## Changed
- - Character View: Change url structure to /classic/{region}/{realm-slug}/character/{character-name}
+ - Character View:
+   * Change url structure to /classic/{region}/{realm-slug}/character/{character-name}
+   * Change character profession progress from profession 1/2 to the actual profession name.
  - Guild View: Change url structure to /classic/{region}/{realm-slug}/guild/{guild-name}
 
 # [2019-08-19]
