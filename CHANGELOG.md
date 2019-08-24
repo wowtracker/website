@@ -1,5 +1,6 @@
 # [2019-08-24]
 ## Added
+ - Home Page: Add an introduction about what the site is.
  - Realms: Add the new realms from: https://www.wowhead.com/news=294640/more-new-classic-wow-realms-coming-august-26th
 
 ## Changed
