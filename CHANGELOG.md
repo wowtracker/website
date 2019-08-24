@@ -2,7 +2,7 @@
 ## Added
  - Home Page: Add an introduction about what the site is.
  - Realms: Add the new realms from: https://www.wowhead.com/news=294640/more-new-classic-wow-realms-coming-august-26th
- - Add realm index pages ([eu](https://wowtracker.xyz/classic/eu), [us](https://wowtracker.xyz/classic/us), [oceanic](https://wowtracker.xyz/classic/oceanic)) which list known servers.
+ - Add region index pages ([eu](https://wowtracker.xyz/classic/eu), [us](https://wowtracker.xyz/classic/us), [oceanic](https://wowtracker.xyz/classic/oceanic)) which list known servers.
 
 ## Changed
  - Character View: Change url structure to /classic/{region}/{realm-slug}/character/{character-name}
