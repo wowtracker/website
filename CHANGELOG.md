@@ -1,6 +1,7 @@
 # [2019-08-24]
 ## Added
  - Home Page: Add an introduction about what the site is.
+ - Realm View: Add guild listing onto realm view pages.
  - Realms: Add the new realms from: https://www.wowhead.com/news=294640/more-new-classic-wow-realms-coming-august-26th
  - Add region index pages ([eu](https://wowtracker.xyz/classic/eu), [us](https://wowtracker.xyz/classic/us), [oceanic](https://wowtracker.xyz/classic/oceanic)) which list known servers.
 
