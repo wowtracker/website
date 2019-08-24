@@ -6,6 +6,7 @@
 
 ## Changed
  - Character View: Change url structure to /classic/{region}/{realm-slug}/character/{character-name}
+ - Guild View: Change url structure to /classic/{region}/{realm-slug}/guild/{guild-name}
 
 # [2019-08-19]
 ## Added
