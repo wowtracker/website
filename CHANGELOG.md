@@ -1,4 +1,7 @@
 # [2019-08-24]
+## Added
+ - Realms: Add the new realms from: https://www.wowhead.com/news=294640/more-new-classic-wow-realms-coming-august-26th
+
 ## Changed
  - Character View: Change url structure to /classic/{region}/{realm-slug}/character/{character-name}
 
