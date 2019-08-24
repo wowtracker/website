@@ -1,3 +1,7 @@
+# [2019-08-24]
+## Changed
+ - Character View: Change url structure to /classic/{region}/{realm-slug}/character/{character-name}
+
 # [2019-08-19]
 ## Added
  - Character Edit: Ability to change professions and levels.
