@@ -1,4 +1,7 @@
 # [2019-08-26]
+## Changed
+ - Use VueJS for character creation form (stops being able to select unusable character options, such as troll paladin).
+
 ## Fixed
  - Character Create: Fix page not working due to incorrect order of routes.
 
