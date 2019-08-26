@@ -1,3 +1,7 @@
+# [2019-08-26]
+## Fixed
+ - Character Create: Fix page not working due to incorrect order of routes.
+
 # [2019-08-24]
 ## Added
  - Home Page: Add an introduction about what the site is.
